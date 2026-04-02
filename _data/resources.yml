@@ -1,0 +1,18 @@
+- title: "NetLogo-Shapes"
+  description: >
+    NetLogo-Shapes is a library of NetLogo vector graphics. It provides scalable,
+    editable versions of NetLogo's iconic shapes, making it easy to customize
+    visuals for simulations and educational materials without loss of quality.
+  url: "https://github.com/danielvartan/logoshapes"
+  category: "Libraries"
+
+- title: "Agent-Based Evolutionary Game Dynamics"
+  description: >
+    A guide to implement and analyze Agent-Based Models within the framework of
+    Evolutionary Game Theory.
+  authors:
+    - "Luis R. Izquierdo"
+    - "Segismundo S. Izquierdo"
+    - "William H. Sandholm"
+  url: "https://wisc.pb.unizin.org/agent-based-evolutionary-game-dynamics/"
+  category: "Guides"
